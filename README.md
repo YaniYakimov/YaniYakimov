@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Java
 - LINKEDIN:
-- ### https://www.linkedin.com/in/yani-yakimov/
+- ### ![image](https://user-images.githubusercontent.com/126487118/226143585-02207fd7-d50f-4cd5-b821-a92cf2144087.png)
 <!--
 **YaniYakimov/YaniYakimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
