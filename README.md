@@ -2,10 +2,10 @@
 - 🌱 I’m currently learning Java
 - LINKEDIN:
 - #### https://www.linkedin.com/in/yani-yakimov/
-:computer: #TECHNOLOGY
+###:computer: **TECHNOLOGY**
 ![image](https://user-images.githubusercontent.com/126487118/226168668-cab34373-3653-4020-8cd5-afe9b584e363.png), ![image](https://user-images.githubusercontent.com/126487118/226168680-61698c91-e94c-45be-bf6c-1e13433ea6be.png), ![image](https://user-images.githubusercontent.com/126487118/226168686-2d6f2d63-1204-4e82-a6c2-9cf9805da1e4.png)
-
-
+**HOBBY**
+##:camera:
 <!--
 **YaniYakimov/YaniYakimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
