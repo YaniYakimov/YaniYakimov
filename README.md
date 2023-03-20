@@ -13,6 +13,12 @@
 <h3 align="left">Technology :computer:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaniyakimov&show_icons=true&locale=en&layout=compact" alt="yaniyakimov" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaniyakimov&show_icons=true&locale=en" alt="yaniyakimov" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaniyakimov&" alt="yaniyakimov" /></p>
+
 <!-- ### Hi there 👋
 - 🌱 I’m currently learning Java
 - ![image](https://user-images.githubusercontent.com/126487118/226177726-5bce3ff7-a2a4-4859-b17e-2b278282ca02.png) https://www.linkedin.com/in/yani-yakimov/
